@@ -1,2 +1,7 @@
-* linguist-language=Markdown
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+*.md linguist-language=markdown
 "Systems Analysis and Design" linguist-language=Markdown
