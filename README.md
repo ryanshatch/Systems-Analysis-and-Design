@@ -17,7 +17,7 @@ Version: 1.2                     ***********************************************
   <a href="#project-summary">Project Summary</a> • <a href="#strengths">Strengths</a> • <a href="#areas-for-improvement">Areas for Improvement</a> • <a href="#user-consideration">User Consideration</a> • <a href="#design-approach">Design Approach</a>
 </p>
 <p align="center">
-<b><i>Please send me a message on Github, email, or text- if you would like to decrypt and use Mytube. Its a VERY quick process; PLEASE do not hesitate to reach out.<br>I will provide you with all of the passwords to decrypt all of the files from the signed archive.</b></i><br>
+<b><i>Please send me a message on Github, email, or text if you would like to decrypt and use this program.<br>Its a VERY quick process; PLEASE do not hesitate to reach out.<br>I will provide you with all of the passwords to decrypt all of the files from the signed archive.</b></i><br>
 <hr></p>
 <p align="center">
 <i>This is a kind remember to always verify and double check the validity of a program before installing anything, via the given fingerprints and SHA256 Checksums are <b>ALWAYS</b> supposed to match.</i>
