@@ -1,0 +1,6 @@
+6f3df34b4e743f4fb0c5197ea4a63c063ed25ee3fa7f2b69e3c07c4eb53fdc22  C:/Users/rshat/Documents/Coding/Systems-Analysis-and-Design/.gitattributes
+1b6049d1c760c7408e920182342b5cb5f0f9382f216af2f5811c822b25d1ee3e  C:/Users/rshat/Documents/Coding/Systems-Analysis-and-Design/README.md
+7dbfbab5f39ab94082e23deaf6fa335533b8fd21ee76f00fcdf1b781c3a8d38f  C:/Users/rshat/Documents/Coding/Systems-Analysis-and-Design/ryanshatch_0x38771BE8_public.asc
+3cc949d141acfe7249806b1962bf2ea72ed642eed45945a6508e4faeb941b492  C:/Users/rshat/Documents/Coding/Systems-Analysis-and-Design/Systems Analysis and Design (Encrypted For Dev Only)
+93485fd23ea87a5a6b51de99ff914f0f5662f65d10a5ed0b5108c777f7fb1666  C:/Users/rshat/Documents/Coding/Systems-Analysis-and-Design/Systems Analysis and Design.zip.gpg
+16844623f2d3aed416dc41a65341710dfe3173c421b848a501ac9a0f0e23a67d  C:/Users/rshat/Documents/Coding/Systems-Analysis-and-Design/UML System.png

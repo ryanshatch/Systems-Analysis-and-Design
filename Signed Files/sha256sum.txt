@@ -1,0 +1,6 @@
+c53f65893905072928154c6915d3c6b01775a6a04c7e62e11b878aeb51abc955  .gitattributes.sig
+7bc68cb9a2e0e4d82c1fa80a13ed297b49ea8cf3a779af692c4613436fb2af20  README.md.sig
+1c138035cfac44cefef8a0aaa2714d1d40efa76706484281abe9eb84d71ae6c1  ryanshatch_0x38771BE8_public.asc.sig
+91812a4521183cb6a8c583d19a5eb5e9bd1a03560a7bb021b248f2bc14ac0c3b  Systems Analysis and Design (Encrypted For Dev Only).sig
+fd5622a9b0b3635c36042404e7865c43b398238bb3fae3746d4e8ea795a6b226  Systems Analysis and Design.zip.gpg.sig
+565743e7d7084563a4cccb722fb02a9d8972cc28041026ce08ab8be167d3e4eb  UML System.png.sig
